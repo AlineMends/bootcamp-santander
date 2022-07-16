@@ -1,0 +1,18 @@
+Lógica de programação
+Processo de pensamento atrelado ao conceito de algoritmos e resolução de problemas.
+Técnica linear;
+modelo tradicional;
+não tem vínculo;
+estrutura hierárquica;
+programação de computadores;
+execução sequenciada;
+ordenação de elementos;
+recursos limitados;
+única dimensão.
+Operadores relacionais
+= igual a
+< > diferente de
+> maior que
+< menor que
+>= maior ou igual
+<= menor ou igual

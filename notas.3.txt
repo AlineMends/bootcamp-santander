@@ -1,0 +1,16 @@
+Algoritmo
+Compreensão do problema;
+
+definição dos dados de entrada / dados fornecidos e cenários;
+
+definir processamento;
+
+definir dados de saída / após processamento;
+
+utilizar um método de construção / construção e refinamento do algoritmo;
+
+teste e diagnóstico.
+
+Narrativa : construção de algoritmos / utilização da linguagem natural.
+fluxograma : utilização de símbolos pré-definidos.
+Pseudocódigo: portugol / regras definidas / passos a serem seguidos.

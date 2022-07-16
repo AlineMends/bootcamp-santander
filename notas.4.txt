@@ -1,0 +1,9 @@
+Git e GitHub
+git init
+git add
+git commit
+git status
+git config --global user.email"alinemends93@gmail.com"
+git config --global usar.name "alinemends"
+Markdown
+git remote add origin = link copiado
